@@ -48,7 +48,7 @@ public class Ahoracado {
             }
         }
         if (!palabraAdivinada) {
-            System.out.println("¡Que pena te has quedado sin intentos! GAME OVER");
+            System.out.println("¡Que pena te has quedado sin intentos! GAME OVER ");
         }
         scanner.close();
     }
